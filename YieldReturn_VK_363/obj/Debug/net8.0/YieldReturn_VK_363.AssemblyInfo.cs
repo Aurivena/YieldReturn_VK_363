@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YieldReturn_VK_363")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+189f9eec1949e1f4cbef3831de5aa695b59d1b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("YieldReturn_VK_363")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YieldReturn_VK_363")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

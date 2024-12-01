@@ -66,3 +66,4 @@
 /home/akeceqm/RiderProjects/YieldReturn_VK_363/YieldReturn_VK_363/obj/Debug/net8.0/YieldReturn_VK_363.csproj.CopyComplete
 /home/akeceqm/RiderProjects/YieldReturn_VK_363/YieldReturn_VK_363/obj/Debug/net8.0/YieldReturn_VK_363.genruntimeconfig.cache
 /home/akeceqm/RiderProjects/YieldReturn_VK_363/YieldReturn_VK_363/obj/Debug/net8.0/ref/YieldReturn_VK_363.dll
+/home/akeceqm/RiderProjects/YieldReturn_VK_363/YieldReturn_VK_363/obj/Debug/net8.0/YieldReturn_VK_363.sourcelink.json
